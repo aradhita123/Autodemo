@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-23T08:26:05Z" name="Command line suite" finished-at="2021-12-23T08:26:05Z" duration-ms="13">
+    <groups>
+    </groups>
+    <test started-at="2021-12-23T08:26:05Z" name="Command line test" finished-at="2021-12-23T08:26:05Z" duration-ms="13">
+      <class name="rahulshettyacademy.APITest">
+        <test-method signature="deletetwitter()[pri:0, instance:rahulshettyacademy.APITest@50eac852]" started-at="2021-12-23T13:56:05Z" name="deletetwitter" finished-at="2021-12-23T13:56:05Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+        <test-method signature="postjira()[pri:0, instance:rahulshettyacademy.APITest@50eac852]" started-at="2021-12-23T13:56:05Z" name="postjira" finished-at="2021-12-23T13:56:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- rahulshettyacademy.APITest -->
+      <class name="rahulshettyacademy.AppiumTest">
+        <test-method signature="IOSapp()[pri:0, instance:rahulshettyacademy.AppiumTest@1ea9f6af]" started-at="2021-12-23T13:56:05Z" name="IOSapp" finished-at="2021-12-23T13:56:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapp -->
+        <test-method signature="nativeappandroid()[pri:0, instance:rahulshettyacademy.AppiumTest@1ea9f6af]" started-at="2021-12-23T13:56:05Z" name="nativeappandroid" finished-at="2021-12-23T13:56:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeappandroid -->
+      </class> <!-- rahulshettyacademy.AppiumTest -->
+      <class name="rahulshettyacademy.seleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:rahulshettyacademy.seleniumTest@6a192cfe]" started-at="2021-12-23T13:56:05Z" name="BrowserAutomation" finished-at="2021-12-23T13:56:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="ElementsUI()[pri:0, instance:rahulshettyacademy.seleniumTest@6a192cfe]" started-at="2021-12-23T13:56:05Z" name="ElementsUI" finished-at="2021-12-23T13:56:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- rahulshettyacademy.seleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
